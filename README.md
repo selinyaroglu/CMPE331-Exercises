@@ -1,2 +1,2 @@
 # CMPE331-Exercises
-Author Selin Yaroğlu
+Author İpek Su Kaptan
